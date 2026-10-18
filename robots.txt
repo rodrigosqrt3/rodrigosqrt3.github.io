@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rodrigosqrt3.github.io/Phylosaur/sitemap.xml
